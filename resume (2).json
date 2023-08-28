@@ -3,13 +3,13 @@
   "headings": {
     "education": "High School ",
     "skills": "SKILLS",
-    "projects": "KEY PROJECTS",
+    "projects": "COURSE PROJECTS",
     "awards": "CERTIFICATIONS / CLEARANCE",
     "work": "EXPERIENCE "
   },
   "basics": {
     "name": "Christopher Castro",
-    "email": "email@email.com",
+    "email": "email@gmail.com",
     "phone": "(000) 000-0000",
     "location": {
       "address": "Savannah, GA"
@@ -129,6 +129,12 @@
       "title": "Secret Security Clearance ",
       "date": "2022",
       "awarder": "DOD"
+    },
+    {
+      "title": "Tools of the Trade: Linux and SQL",
+      "date": "2023",
+      "awarder": "Google Coursera",
+      "summary": "https://coursera.org/verif y/62E6RK2T836W"
     }
   ],
   "sections": [
