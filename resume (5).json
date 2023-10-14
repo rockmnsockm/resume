@@ -1,0 +1,157 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "education": "High School ",
+    "skills": "SKILLS",
+    "projects": "COURSE PROJECTS",
+    "awards": "CERTIFICATIONS / CLEARANCE",
+    "work": "EXPERIENCE "
+  },
+  "basics": {
+    "name": "Christopher Castro",
+    "email": "email@gmail.com",
+    "phone": "(000) 000-0000",
+    "location": {
+      "address": "Savannah, GA"
+    },
+    "website": "https://github.com/rockmnsockm"
+  },
+  "education": [
+    {
+      "institution": "Kapolei High School",
+      "location": "Kapolei, HI",
+      "area": "",
+      "studyType": "Diploma",
+      "startDate": "",
+      "endDate": "",
+      "gpa": ""
+    }
+  ],
+  "work": [
+    {
+      "company": "CYBER SECURITY STUDENT | PART TIME",
+      "location": "",
+      "position": "",
+      "website": "",
+      "startDate": "2022 - Present",
+      "endDate": "",
+      "highlights": [
+        "Currently studying cyber security part time. ",
+        "Currently working on the Google Coursera classes"
+      ]
+    },
+    {
+      "highlights": [
+        "IT support for the maintenance group in the 165th airwing ",
+        "Record all aircraft maintenance tasks in written and electronic forms ",
+        "Maintained multi-million-dollar mechanical tool facility ",
+        "Imaging computers for the Airbase and installing Windows OS",
+        "Trouble shoot ports on Cisco switches and add trunk ports "
+      ],
+      "company": "AIR NATIONAL GUARD",
+      "position": "Aircraft mechanic / IT support",
+      "location": "Savannah, GA",
+      "startDate": "2021",
+      "endDate": "Present "
+    }
+  ],
+  "skills": [
+    {
+      "name": "NETWORKING",
+      "level": "",
+      "keywords": [
+        "Wireshark",
+        "NMAP",
+        "TCPdump"
+      ]
+    },
+    {
+      "keywords": [
+        "Python",
+        "SQL"
+      ],
+      "name": "PROGRAMMING"
+    },
+    {
+      "keywords": [
+        "Linux",
+        "Windows firewall",
+        "Microsoft windows defender"
+      ],
+      "name": "SYS ADMIN"
+    }
+  ],
+  "projects": [
+    {
+      "description": "Configure and update Microsoft defender",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "description": "Enable and configure Microsoft Firewall"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "description": "Utilize TCPdump to capture and analyze TCP traffic"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "description": "Utilize Wireshark to analyze HTTP/S and RDP traffic "
+    }
+  ],
+  "awards": [
+    {
+      "title": "CompTIA Sercurity +",
+      "date": "2022",
+      "summary": "http://verify.CompTIA.org",
+      "awarder": "CompTIA"
+    },
+    {
+      "title": "AWS Cloud Solutions Architect",
+      "date": "2022",
+      "awarder": "Amazon",
+      "summary": "https://aws.amazon.com/verification"
+    },
+    {
+      "title": "Analyze network traffic with TCPdump",
+      "date": "2023",
+      "summary": "https://coursera.org/verif y/4CTNHMH77H53",
+      "awarder": "Google Coursera "
+    },
+    {
+      "title": "Secret Security Clearance ",
+      "date": "2022",
+      "awarder": "DOD"
+    },
+    {
+      "title": "Tools of the Trade: Linux and SQL",
+      "date": "2023",
+      "awarder": "Google Coursera",
+      "summary": "https://coursera.org/verif y/62E6RK2T836W"
+    },
+    {
+      "title": "Google Cybersecurity ",
+      "date": "2023",
+      "awarder": "Google Coursera ",
+      "summary": "https://coursera.org/verify/professional-cert/LYRKZ3W3G5DM"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
