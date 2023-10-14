@@ -37,17 +37,19 @@
       "endDate": "",
       "highlights": [
         "Currently studying cyber security part time. ",
-        "Currently working on the Google Cybersecurity professional certificate "
+        "Currently working on the Google Coursera classes"
       ]
     },
     {
       "highlights": [
-        "Aircraft mechanic on the C-130H and C-130J models",
+        "IT support for the maintenance group in the 165th airwing ",
         "Record all aircraft maintenance tasks in written and electronic forms ",
-        "Maintained multi-million-dollar mechanical tool facility "
+        "Maintained multi-million-dollar mechanical tool facility ",
+        "Imaging computers for the Airbase and installing Windows OS",
+        "Trouble shoot ports on Cisco switches and add trunk ports "
       ],
       "company": "AIR NATIONAL GUARD",
-      "position": "Aircraft mechanic ",
+      "position": "Aircraft mechanic / IT support",
       "location": "Savannah, GA",
       "startDate": "2021",
       "endDate": "Present "
@@ -135,6 +137,12 @@
       "date": "2023",
       "awarder": "Google Coursera",
       "summary": "https://coursera.org/verif y/62E6RK2T836W"
+    },
+    {
+      "title": "Google Cybersecurity ",
+      "date": "2023",
+      "awarder": "Google Coursera ",
+      "summary": "https://coursera.org/verify/professional-cert/LYRKZ3W3G5DM"
     }
   ],
   "sections": [
